@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.github.yhanada.mytodo"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.github.yhanada.mytodo"
